@@ -1,3 +1,3 @@
-# Cactus Jekyll theme
+# THE JAM CAVE
 
-Cactus is a theme for Jekyll. Check out the <a href="http://wolfr.github.io/cactus-jekyll-theme/">demo</a>.
+This site was build using the Cactus Jekyll theme, find it <a href="http://wolfr.github.io/cactus-jekyll-theme/">here</a>.
