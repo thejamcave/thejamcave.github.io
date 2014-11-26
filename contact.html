@@ -14,15 +14,12 @@
     <article>
     <h2 align="center">Complete the following form:</h2>
 
-<form align="center" action="MAILTO:thejamcave@gmail.com" method="post" enctype="text/plain">
-Name:<br>
-<input type="text" name="name" value="your name"><br>
-E-mail:<br>
-<input type="text" name="mail" value="your email"><br>
-Comment:<br>
-<input type="text" name="comment" value="your comment" size="50"><br><br>
-<input type="submit" value="Send">
-<input type="reset" value="Reset">
+<form action="http://getsimpleform.com/messages?form_api_token=3fd18fc20fe83046687d72bdc0186cd6" method="post">
+  <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
+  <input type='hidden' name='redirect_to' value='<the complete return url e.g. http://fooey.com/thank-you.html>' />
+  <!-- all your input fields here.... -->
+  <input type='text' name='test' />
+  <input type='submit' value='Test form' />
 </form>
     
     </article>
